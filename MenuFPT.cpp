@@ -223,6 +223,6 @@ int main() {
 	if (x == 7) MuaXe();
 	if (x == 8) SV();
 	if (x == 9) FPOLYLOTT();
-	else cout << "Chua phat trien thanks!";
-	system("pause"); cout << "\n";
+	if (x == 10) cout << "\nNhac qua eo lam ok?\n";
+	cout << "\n"; system("pause");
 }
