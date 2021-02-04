@@ -1,1 +1,1 @@
-# A Simple Menu includes 10 functional
+# A Simple Menu FPT includes 10 functional
